@@ -23,6 +23,6 @@ The **Book Management System** is a **C++ application** designed for efficient b
 📂 **Data Structure:** Doubly Linked List  
 🛠️ **Development Environment:** *[Specify IDE or compiler, e.g., Visual Studio Code, Code::Blocks]*  
 
-This project demonstrates **structured data management**, **efficient searching and sorting techniques**, and **practical implementation of linked lists** in C++.  
+This project demonstrates **structured data management**, **efficient searching and sorting techniques**, and **practical implementation of linked lists** in C++ .  
 
 ---
